@@ -1,5 +1,5 @@
-# Daily CSS Images - Ruler
-Daily CSS Images Day Seven prompt. This is a notepad made with HTML & CSS.
+# Daily CSS Images - Notepad
+Daily CSS Images Day Eight prompt. This is a notepad made with HTML & CSS.
 
 ## Instructions
 Clone this repo or download the zip file. Open index.html in your browser to see the notepad.
